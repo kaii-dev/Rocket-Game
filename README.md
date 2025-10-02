@@ -30,4 +30,4 @@ Control your rocket using thrust and rotation to reach the finish pad while avoi
 ---
 
 ## Credits
-Developed by **Kai** 🎮
+Developed by **Kai** 
