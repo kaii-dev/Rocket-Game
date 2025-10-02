@@ -1,6 +1,3 @@
-# Rocket-Game
-Rocket Lander: inspired by Flappy Bird.
-
 # Rocket Lander
 
 A simple physics-based rocket landing game made with Unity.  
